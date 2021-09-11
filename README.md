@@ -1,4 +1,4 @@
-# Antahsagari-SLAM## INTRODUCTION
+## INTRODUCTION
 
 The acronym stands for Simultaneous Localization and Mapping. Let’s understand it with an example. Tushar is kidnapped and left in a dense forest by his enemies. He has no phone so he can’t communicate with anyone nor has accessibility to navigation tools like google maps or compass. Luckily there is abundant food in the forest. Now what he should do? 
 There are broadly two possibilities - one is he accepts his fate and spends the rest of his life in the forest. The other option is that he figures out a way to get out of the forest. Talking about Tushar he has a good presence of mind and always keeps a pocket diary and a pen in his secret pocket. He starts from a place and notes down the distinguishable **landmarks**(features). Like Stones, trees, etc. of forest in his diary. Whenever he sees a new feature, he adds it in his diary. He is moving completely arbitrarily but carefully and consciously. Many times he encounters the same path giving him a strong hint about  connectivity between different paths . In some days he figures out a rough map of the forest with the help of which he rushes out of the forest.
